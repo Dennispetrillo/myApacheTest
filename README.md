@@ -1,2 +1,3 @@
-# myApacheTest
-Just testing supermarket and pulling in a compliance test while running test kitchen
+# Example InSpec Profile
+
+This example shows the implementation of an InSpec profile.

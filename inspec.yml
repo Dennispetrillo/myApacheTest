@@ -1,0 +1,8 @@
+name: my-apache
+title: My Apache Profile
+maintainer: The Authors
+copyright: The Authors
+copyright_email: you@example.com
+license: Apache-2.0
+summary: A Custom Apache Profile
+version: 0.1.0
